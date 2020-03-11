@@ -1,0 +1,256 @@
+.menu-bar {
+	float: left;
+}
+.search-icon {
+	float: left;
+}
+.text-right {
+	text-align: left !important;
+}
+.slider-area .banner-img {
+	height: 100%;
+	left: 0;
+	right: auto;
+	transform: rotateY(180deg);
+}
+.slider-content {
+	text-align: right;
+}
+.slider-content p {
+	margin-right: 0;
+	padding-left: 12%;
+}
+.slider-content span {
+	padding-left: 0;
+	padding-right: 57px;
+}
+.features-img {
+	margin-left: 0;
+}
+.offset-xl-2 {
+	margin-left: 0;
+	margin-right: 16.666667%;
+}
+.promo-text {
+	margin-left: 0;
+	text-align: right;
+	padding-right: 50px;
+}
+.promo-text h1::before {
+	left: auto;
+	bottom: 0;
+	right: 0;
+}
+.promo-text h1::after {
+	left: auto;
+	bottom: 0;
+	right: 50px;
+}
+.promo-area .promo-img img {
+	margin-left: 0;
+	max-width: inherit;
+	margin-right: -137px;
+}
+.offset-xl-3 {
+	margin-left: 0;
+	margin-right: 25%;
+}
+.pricing-list ul {
+	text-align: right;
+}
+.pricing-list li i {
+	margin-right: 0;
+	float: right;
+	margin-left: 17px;
+}
+.newsletter-form button.btn {
+	right: auto;
+	top: 0;
+	left: 0;
+}
+.features-text {
+	margin-left: 0px;
+	padding-left: 20px;
+	text-align: right;
+	padding-right: 42px;
+}
+.offset-xl-1 {
+	margin-left: 0;
+	margin-right: 8.333333%;
+}
+.blog-wrapper {
+	text-align: right;
+}
+.blog-text h4::before {
+	left: auto;
+	right: 0;
+}
+.blog-meta > span {
+	margin-right: 0;
+	margin-left: 10px;
+}
+.contact-address-icon {
+	float: right;
+	margin-right: 0;
+	margin-left: 10px;
+}
+.contact-address-text {
+	text-align: right;
+}
+.footer-title {
+	text-align: right;
+}
+.footer-title::before {
+	left: auto;
+	bottom: 0;
+	right: 16px;
+}
+.footer-title::after {
+	left: auto;
+	right: 0;
+}
+.widget-posts-image {
+	float: right;
+}
+.widget-posts-image img {
+	margin-right: 0;
+	margin-left: 15px;
+}
+.widget-posts-body {
+	text-align: right;
+}
+.footer-wrapper {
+	text-align: right;
+}
+.copyright {
+	text-align: right;
+}
+.footer-bottom-link ul {
+	text-align: left;
+}
+.main-menu nav ul.siniko-menu > li .sub-menu {
+	left: auto;
+	right: 0;
+	text-align: right !important;
+}
+.choose-img {
+	margin-left: 0;
+}
+.why-choose-wrapper {
+	text-align: right;
+}
+.choose-icon {
+	float: right;
+	margin-right: 0;
+	margin-left: 25px;
+}
+.agency-wrapper {
+	text-align: right;
+}
+.header-info p {
+	margin-right: 0;
+	margin-left: 50px;
+}
+.header-info p i {
+	margin-right: 0;
+	float: right;
+	margin-left: 5px;
+}
+.f-right {
+	float: left;
+}
+.menu-bar {
+	margin-left: 0;
+}
+.promos-icon {
+	float: right;
+	margin-right: 0;
+	margin-left: 30px;
+}
+.promos-link li {
+	list-style: none;
+}
+.testmonial-title-wrapper.mb-30 {
+	text-align: right;
+}
+.test-item {
+	text-align: right;
+}
+.faq-box {
+	text-align: right;
+}
+.faq-box .btn-link {
+	padding: 15px 45px;
+}
+.faq-box .card-body {
+	padding: 0px 45px;
+}
+.faq-img img {
+	margin-left: 0;
+	margin-right: -160px;
+}
+.page-title-white .breadcrumb-list ul li::before {
+	right: auto;
+	left: -4px;
+}
+.contact {
+	text-align: right;
+}
+.contact i {
+	float: right;
+}
+.contact-text {
+	padding-left: 0;
+	padding-right: 20px;
+}
+.form-wrapper .section-title {
+	text-align: right;
+}
+.contact-form input {
+	padding-right: 30px;
+	text-align: right;
+}
+.contact-form textarea {
+	text-align: right;
+	padding-right: 30px;
+}
+.blog-standard .blog-meta > span {
+	margin-right: 0;
+	margin-left: 30px;
+}
+.widget-title {
+	text-align: right;
+}
+.widget-title::after {
+	left: auto;
+	right: 0;
+}
+.blog-area .widget ul {
+	text-align: right;
+}
+.social-profile {
+	text-align: right;
+}
+.about-me .widget-title {
+	text-align: center;
+}
+.comments-avatar {
+	float: right;
+}
+.latest-comments .comments-avatar img {
+	margin-right: 0;
+	margin-left: 20px;
+}
+.comment-reply-link {
+	right: auto;
+	left: 0;
+}
+.portfolio-caption {
+	text-align: right;
+}
+.gallery2-layout-text {
+	text-align: right;
+}
+.gallery2-layout-bg {
+	text-align: right;
+}

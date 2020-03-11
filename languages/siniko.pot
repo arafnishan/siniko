@@ -1,0 +1,909 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: siniko\n"
+"POT-Creation-Date: 2019-07-27 20:41+0600\n"
+"PO-Revision-Date: 2019-07-27 20:41+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:20
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:29
+msgid "BACK HOME"
+msgstr ""
+
+#: comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:56
+msgid "&larr; Older "
+msgstr ""
+
+#: comments.php:59
+msgid "Newer &rarr;"
+msgstr ""
+
+#: functions.php:47
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:162
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:164
+msgid "Add Blog Widgets"
+msgstr ""
+
+#: functions.php:178
+msgid "Footer Style One"
+msgstr ""
+
+#: functions.php:180
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:194
+msgid "Footer Style 2 : Left"
+msgstr ""
+
+#: functions.php:196
+msgid "Footer 2 Column Widget"
+msgstr ""
+
+#: functions.php:207 functions.php:209
+msgid "Footer Style 2 : Center"
+msgstr ""
+
+#: functions.php:220 functions.php:222
+msgid "Footer Style 2 : Right"
+msgstr ""
+
+#: functions.php:233
+msgid "Footer Top"
+msgstr ""
+
+#: functions.php:235
+msgid "Footer Top Widget"
+msgstr ""
+
+#: functions.php:246
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:248
+msgid "Add Footer Menu"
+msgstr ""
+
+#: functions.php:262
+msgid "Services Sidebar"
+msgstr ""
+
+#: functions.php:264
+msgid "Widgets in this area will be shown on Service Details Sidebar."
+msgstr ""
+
+#: functions.php:277
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: functions.php:279
+msgid "Widgets in this area will be shown on Portfolio Details Sidebar."
+msgstr ""
+
+#: functions.php:401
+msgid "Your Name...."
+msgstr ""
+
+#: functions.php:406
+msgid "Your Email...."
+msgstr ""
+
+#: functions.php:413 functions.php:426
+msgid "Your Comments...."
+msgstr ""
+
+#: functions.php:431
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:498
+msgid "siniko Demo Data"
+msgstr ""
+
+#: functions.php:503
+msgid ""
+"After you import this demo, you will have to setup the slider separately."
+msgstr ""
+
+#: functions.php:545
+msgid "Search"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:290 inc/siniko_add_plugin.php:81
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:291 inc/siniko_add_plugin.php:82
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:293 inc/siniko_add_plugin.php:83
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:295 inc/siniko_add_plugin.php:84
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:296 inc/siniko_add_plugin.php:85
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:299 inc/siniko_add_plugin.php:87
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:305 inc/siniko_add_plugin.php:92
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:311 inc/siniko_add_plugin.php:97
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:317 inc/siniko_add_plugin.php:102
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:323 inc/siniko_add_plugin.php:107
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:329 inc/siniko_add_plugin.php:112
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:334 inc/siniko_add_plugin.php:117
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:339 inc/siniko_add_plugin.php:122
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:344 inc/siniko_add_plugin.php:127
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:348 inc/siniko_add_plugin.php:131
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:349
+#: inc/class-tgm-plugin-activation.php:869
+#: inc/class-tgm-plugin-activation.php:2575
+#: inc/class-tgm-plugin-activation.php:3622
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:350
+#: inc/class-tgm-plugin-activation.php:3201 inc/siniko_add_plugin.php:132
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:351
+#: inc/class-tgm-plugin-activation.php:2994 inc/siniko_add_plugin.php:133
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:353 inc/siniko_add_plugin.php:134
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:355 inc/siniko_add_plugin.php:135
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:357 inc/siniko_add_plugin.php:136
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:358 inc/siniko_add_plugin.php:137
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:359 inc/siniko_add_plugin.php:138
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:360 inc/siniko_add_plugin.php:139
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:564
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:565
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:976
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:976
+#: inc/class-tgm-plugin-activation.php:979
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:979
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1163
+#: inc/class-tgm-plugin-activation.php:2990
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:2024
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2318
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2334
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2337
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2340
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2357
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2361
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2363
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2369
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2372
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2375
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2384
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2430
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2434
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2438
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2442
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2524
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2532
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2540
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2552
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2575
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2589
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2590
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2591
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2595
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2596
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2645
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2650
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2656
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2765
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2768
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2799
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2801
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2842
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2950
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2976
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3200
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3540
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3543
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3545
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3549
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3551
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3551
+#: inc/class-tgm-plugin-activation.php:3559
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3551
+#: inc/class-tgm-plugin-activation.php:3559
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3552
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3554
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3557
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3559
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3560
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3562
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/siniko_add_plugin.php:29
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: inc/siniko_add_plugin.php:34
+msgid "Bdevs Elementor "
+msgstr ""
+
+#: inc/siniko_add_plugin.php:41
+msgid "Bdevs Toolkit "
+msgstr ""
+
+#: inc/siniko_add_plugin.php:48
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/siniko_add_plugin.php:53
+msgid "Cmb2"
+msgstr ""
+
+#: inc/siniko_add_plugin.php:58
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/siniko_add_plugin.php:63
+msgid "Mailchimp For WP"
+msgstr ""
+
+#: inc/siniko_customizer.php:153
+msgid "Yes"
+msgstr ""
+
+#: inc/siniko_customizer.php:154
+msgid "No"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:9
+msgid "Siniko Customizer"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:13
+msgid "Topbar Swticher"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:17
+msgid "Topbar Swicher"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:24
+msgid "Topbar Search"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:31
+msgid "Header Phone"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:38
+msgid "Header Mail"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:45
+msgid "Analysis Button"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:52
+msgid "Analysis Button Text"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:54
+msgid "Free Analysis"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:59
+msgid "Analysis Button Link"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:66 inc/siniko_customizer_data.php:202
+msgid "Facebook Url"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:73 inc/siniko_customizer_data.php:209
+msgid "Twitter Url"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:80 inc/siniko_customizer_data.php:216
+msgid "Behance Url"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:87 inc/siniko_customizer_data.php:223
+msgid "Google Plus Url"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:94 inc/siniko_customizer_data.php:230
+msgid "Instagram Url"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:104
+msgid "Header Setting"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:108
+msgid "Header Logo"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:115
+msgid "Header White Logo"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:122
+msgid "Header Retina Logo"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:129
+msgid "Header Retina White Logo"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:136
+msgid "Breadcrumb Background Image"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:146
+msgid "Blog Setting"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:150
+msgid "Blog Single Breadcrumb"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:152
+msgid "Single Blog"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:159
+msgid "Extra Info Setting"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:163
+msgid "Show Extra Info"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:170
+msgid "Logo"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:177 inc/template-helper.php:240
+msgid "Office Address"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:183 inc/template-helper.php:244
+msgid "Phone Number"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:189 inc/template-helper.php:248
+msgid "Email Address"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:195
+msgid "Show Portfolios"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:239
+msgid "Footer Setting"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:243
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:249
+msgid "Copy Right"
+msgstr ""
+
+#: inc/siniko_customizer_data.php:251
+msgid "Copyright &copy;2019 NilArtStudio. All Rights Reserved Copyright"
+msgstr ""
+
+#: inc/siniko_navwalker.php:366 inc/template-helper.php:1027
+msgid "Home"
+msgstr ""
+
+#: inc/template-functions.php:33
+msgid "Post Tags"
+msgstr ""
+
+#: inc/template-helper.php:690 inc/template-helper.php:767
+msgid "img"
+msgstr ""
+
+#: inc/template-helper.php:758
+msgid "Copyright ©2019 siniko. All Rights Reserved"
+msgstr ""
+
+#: inc/template-helper.php:763
+msgid "Header Sidebar Info"
+msgstr ""
+
+#: inc/template-helper.php:837
+msgid "Blog"
+msgstr ""
+
+#: inc/template-helper.php:893
+msgid "Product Details"
+msgstr ""
+
+#: inc/template-helper.php:928
+msgid "Services Details"
+msgstr ""
+
+#: inc/template-helper.php:1001
+msgid "Search here..."
+msgstr ""
+
+#: inc/template-helper.php:1038
+msgid "Archive for category"
+msgstr ""
+
+#: inc/template-helper.php:1042
+msgid "Search results for"
+msgstr ""
+
+#: inc/template-helper.php:1112
+msgid "Posts tagged"
+msgstr ""
+
+#: inc/template-helper.php:1118
+msgid "Articles posted by"
+msgstr ""
+
+#: inc/template-helper.php:1122
+msgid "Not Found"
+msgstr ""
+
+#: inc/template-helper.php:1127 template-parts/content-page.php:9
+msgid "Page"
+msgstr ""
+
+#: search.php:24
+msgid "Search Results For:"
+msgstr ""
+
+#: single.php:37
+msgid "Prev Post"
+msgstr ""
+
+#: single.php:46
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/content-aside.php:31 template-parts/content-audio.php:31
+#: template-parts/content-gallery.php:31 template-parts/content-image.php:31
+#: template-parts/content-link.php:31 template-parts/content-page.php:5
+#: template-parts/content-quote.php:31 template-parts/content-search.php:31
+#: template-parts/content-video.php:31 template-parts/content.php:31
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-aside.php:65 template-parts/content-audio.php:65
+#: template-parts/content-gallery.php:65 template-parts/content-image.php:65
+#: template-parts/content-link.php:65 template-parts/content-quote.php:65
+#: template-parts/content-search.php:65 template-parts/content-video.php:65
+#: template-parts/content.php:65
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "siniko"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://bdevs.net/theme/siniko/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Siniko - SEO & Digital Marketing Agency WordPress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "BDevs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/bdevs"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Vc Container"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Elementor Page"
+msgstr ""
